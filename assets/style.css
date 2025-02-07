@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.maintenance-container {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #e74c3c;
+}
+
+p {
+    color: #555;
+}
